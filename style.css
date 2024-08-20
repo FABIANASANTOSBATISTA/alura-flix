@@ -1,0 +1,13 @@
+body {
+background-color: rgb(230, 14, 230);
+color:gray;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+
+}
+button{
+    background-color: black;
+}
